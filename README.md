@@ -47,6 +47,13 @@ A ideia é demonstrar minhas habilidades técnicas e meu entendimento do ciclo d
 
 Meu foco agora é aprofundar conhecimentos em automação de testes, explorar novas ferramentas e integrar práticas de QA em equipes ágeis, contribuindo para a qualidade e evolução contínua dos produtos digitais. 
 
+Como proximos projetos a serem desenvolvidos, estudados e implementados:
+
+- Criar um projeto de automação de testes de API usando Rest Assured;
+- Criar um projeto de automação de testes de API usando Postman & Newman;
+- Criar um projeto de automação de testes E2E usando Cypress + Custom Commands;
+  
+
 Estou aberto a oportunidades de colaboração, troca de conhecimento e crescimento profissional na área de Quality Assurance.
 
 🙏 Obrigado pela visita ao meu repositório! Estou à disposição para dúvidas e colaborações.
