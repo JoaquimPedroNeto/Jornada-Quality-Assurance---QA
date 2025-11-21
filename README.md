@@ -3,6 +3,7 @@
 
 ## 👤Sobre Mim
 
+
 Olá! Sou um profissional com background como Analista de Licitações, atualmente em transição para a área de Quality Assurance (QA) de Software. 
 
 Minha trajetória sempre foi pautada por atenção aos detalhes, organização e comprometimento com a qualidade — competências que agora aplico no contexto de Testes e Garantia da Qualidade de Sistemas - QA.
